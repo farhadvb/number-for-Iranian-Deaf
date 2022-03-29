@@ -1,4 +1,4 @@
-# program  show number for Iranian Deaf
+# program  show number for Deaf
 
 import cv2
 from cvzone.HandTrackingModule import HandDetector
